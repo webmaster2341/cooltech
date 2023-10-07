@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cool Technology - Your Name</title>
+    <!-- Add any additional meta tags, CSS, or JavaScript links here if needed -->
+    <style>
+        /* Add your preferred CSS styles here */
+        body {
+            background-color: #f0f0f0; /* Change this to your preferred background color */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #007BFF; /* Change this to your preferred header color */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 36px;
+        }
+        
+        /* Add more CSS styles as needed */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Cool Technology</h1>
+        <!-- Add any additional header content here -->
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                <!-- Add a brief bio or information about yourself here -->
+            </p>
+        </section>
+
+        <section>
+            <h2>My Interests</h2>
+            <p>
+                <!-- Add your hobbies and interests here -->
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <!-- Add any footer content or contact information here -->
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cool Technology - Your Name</title>
+    <!-- Add any additional meta tags, CSS, or JavaScript links here if needed -->
+    <style>
+        /* Add your preferred complex, cool techy CSS styles here */
+        body {
+            background-color: #000;
+            color: #00FF00;
+            font-family: 'Courier New', monospace;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 48px;
+        }
+        
+        section {
+            padding: 40px;
+            border-bottom: 1px solid #333;
+        }
+        
+        h2 {
+            font-size: 36px;
+        }
+        
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Cool Technology</h1>
+        <!-- Add any additional header content here -->
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Welcome to Cool Technology! I'm your guide to the fascinating world of computers and technology. I'm passionate about sharing knowledge on the basics of coding, computer components, and the various types of computers that power our modern world.
+            </p>
+        </section>
+
+        <section>
+            <h2>Computer Components</h2>
+            <p>
+                Computers consist of various components, including the central processing unit (CPU), motherboard, RAM (Random Access Memory), storage devices (HDD/SSD), graphics card (GPU), and more. Understanding these components is key to unlocking the power of technology.
+            </p>
+        </section>
+
+        <section>
+            <h2>Types of Computers</h2>
+            <p>
+                Explore the diverse world of computers, from powerful desktop workstations to sleek laptops, versatile tablets, and the ever-evolving realm of smartphones. Each type serves unique purposes and adapts to different computing needs.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <!-- Add any footer content or contact information here -->
+    </footer>
+</body>
+</html>
+
